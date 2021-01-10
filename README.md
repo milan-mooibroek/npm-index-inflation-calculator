@@ -1,4 +1,4 @@
-# String code from number generator
+# Index inflation calculator
 
 The index-inflation-calculator package is a tool to calculate upcomming year values of given purchase year and amount.
 

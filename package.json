@@ -1,6 +1,6 @@
 {
   "name": "index-inflation-calculator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Calculate the next upcomming probability from previous year numbers.",
   "main": "index.js",
   "scripts": {
