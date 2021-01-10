@@ -1,0 +1,21 @@
+{
+  "name": "index-inflation-calculator",
+  "version": "1.0.3",
+  "description": "Calculate the next upcomming probability from previous year numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/milan-mooibroek/index-inflation-calculator"
+  },
+  "author": "Milan Mooibroek",
+  "license": "MIT",
+  "keywords": [
+    "Inflation calculator",
+    "Excpected returns calculator",
+    "Index inflation calculator",
+    "Index returns calculator"
+  ]
+}
